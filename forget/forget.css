@@ -33,10 +33,13 @@
 }
 .button{
   margin-left: 10px;
+  
 }
 .button input{
-  width: 80px !important;
+  width: 80px;
   border: 1px solid darkgray;
   cursor: pointer;
   background: rgba(14, 174, 238, 0.8) ;
+  padding: 6px;
+  font-size: 18px;
 }
