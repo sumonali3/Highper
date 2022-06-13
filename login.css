@@ -9,17 +9,15 @@
   margin: 0 auto;
 }
 .from{
-  width: 400px;
-  height: 450px;
+  width: 480px;
+  height: 500px;
   margin: 0 auto;
   margin-top: 25px;
   border-radius: 20px;
-  padding:45px 10px 10px 100px ;
-  background: rgb(196, 196, 196);
+  padding:45px 10px 10px 130px ;
+  background: rgba(196, 196, 196, .5);
 }
 h1 {
-  background: rgb(1, 138, 250);
-  color: #fff;
   margin-right: 90px;
   border-radius: 8px;
   height: 45px;
@@ -45,7 +43,7 @@ font-weight: bold;
   width: 220px;
   height: 35px;
   font-family: 'Times New Roman', Times, serif;
-  border: 1px solid rgb(17, 109, 230);
+  border: 1px solid darkgray;
   border-radius: 8px;
   font-size: 18px;
   padding-left: 15px;
@@ -58,8 +56,7 @@ font-weight: bold;
   height: 37px;
   font-weight: bold;
   font-size: 20px;
-  background: rgb(1, 138, 250);
-  color: #fff;
+  background: rgb(189, 212, 231);
   cursor: pointer;
 }
 .create a{
