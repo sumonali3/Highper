@@ -26,37 +26,17 @@
 .from input{
   width: 330px;
   height: 35px;
-  border: 1px dotted blue;
+  border: 1px dotted darkgray;
   border-radius: 9px;
   font-size: 15px;
   padding-left: 15px;
 }
 .button{
-  padding: 10px;
-  
+  margin-left: 10px;
 }
-.butto{
-  padding: 5px;
-  margin-left: 140px;
-  border-radius: 10px;
-  border: 2px solid darkgray;
-  background: rgba(194, 194, 194, 0.8);
-}
-.butt{
-  padding: 5px;
-  border-radius: 10px;
-  border: 2px solid rgba(22, 22, 22, 0.4);
-  background: #4684ff;
-}
-.butt, .butto  p a{
-  color: #000;
-  font-family: 'Times New Roman', Times, serif;
-}
-.butt p a:hover{
-  color: red;
-  transition: 1s;
-}
-.butto p a:hover{
-  color: red;
-  transition: 1s;
+.button input{
+  width: 80px !important;
+  border: 1px solid darkgray;
+  cursor: pointer;
+  background: rgba(14, 174, 238, 0.8) ;
 }
