@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper{
+  width: 1200px;
+  margin: 0 auto;
+}
+.from p{
+  border: 1px solid red;
+  margin: 200px 100px 20px;
+  padding: 40px;
+}
